@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['6281395861695'] // Letakan nomor kamu disini
+global.owner = ['6285706735450'] ['6283869803330'] // Letakan nomor kamu disini
 global.mods = [] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -37,7 +37,7 @@ global.wait = '_*Please Wait..*_'
 global.eror = '_*Server Error*_'
 global.fla = 'https://i.imgur.com/707WLbK.jpeg'
 
-global.watermark = '© Yanz BOTZ'
+global.watermark = '© BOT TJY'
 
 global.multiplier = 69 // Semakin tinggi, semakin sulit naik level
 
